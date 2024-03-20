@@ -1,0 +1,38 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #FFCD73;
+        padding: 20px;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    input {
+        width: 100%;
+        padding: 5px;
+        margin-bottom: 10px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    }
+
+    button {
+        width: 100%;
+        padding: 10px;
+        background-color: #6C88C4;
+        color: #fff;
+        border: none;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #0065A2;
+    }
+
+    #semesterGrade {
+        margin-top: 10px;
+        font-size: 18px;
+    }
